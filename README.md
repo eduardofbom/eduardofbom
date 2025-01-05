@@ -31,20 +31,29 @@ Me chamo Eduardo Ferreira Bomfim Filho, tenho 18 anos e sou natural de Sergipe. 
 />
 <img 
     align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.veryicon.com/download/png/business/vscode-program-item-icon/django-1?s=256" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="GoLang" 
-    title="GoLang"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://svgicons.com/api/ogimage/?id=190993&n=golang" 
-/>
+
 
 
 <br/>

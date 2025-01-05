@@ -31,14 +31,6 @@ Me chamo Eduardo Ferreira Bomfim Filho, tenho 18 anos e sou natural de Sergipe. 
 />
 <img 
     align="left" 
-    alt="GoLang" 
-    title="GoLang"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://svgicons.com/api/ogimage/?id=190993&n=golang" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -47,28 +39,13 @@ Me chamo Eduardo Ferreira Bomfim Filho, tenho 18 anos e sou natural de Sergipe. 
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="GoLang" 
+    title="GoLang"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://svgicons.com/api/ogimage/?id=190993&n=golang" 
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+
 
 <br/>
 <br/>

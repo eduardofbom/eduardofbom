@@ -8,7 +8,7 @@ Me chamo Eduardo Ferreira Bomfim Filho, tenho 18 anos e sou natural de Sergipe. 
 
 ### 📱 Contatos  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferreiranzx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ferreira-bomfim-filho-30b2a1333/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferreiranzx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/eduardo-ferreira-bomfim-filho)
 
 ---
 

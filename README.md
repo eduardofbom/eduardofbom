@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Eduardo Ferreira
 
-**`Engenheiro de Software`**
+**`Desenvolvedor de Software`**
 
 Me chamo Eduardo Ferreira Bomfim Filho, tenho 18 anos e sou natural de Sergipe. Concluí o ensino médio no Colégio Módulo. Atualmente, estou cursando Sistemas de Informação na UFS. Desde criança gosto de tecnologia, mas descobri a paixão pela a área de computação em 2022 e desde então não parei de estudar.
 

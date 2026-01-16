@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Eduardo Ferreira
 
-**`Desenvolvedor de Software`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Eduardo Ferreira Bomfim Filho, tenho 18 anos e sou natural de Sergipe. Concluí o ensino médio no Colégio Módulo. Atualmente, estou cursando Sistemas de Informação na UFS. Desde criança gosto de tecnologia, mas descobri a paixão pela a área de computação em 2022 e desde então não parei de estudar.
 
@@ -16,27 +16,43 @@ Me chamo Eduardo Ferreira Bomfim Filho, tenho 18 anos e sou natural de Sergipe. 
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" 
 />
 <img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.svg.png" 
+/>
+<!-- <img 
     align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn-icons-png.freepik.com/256/4248/4248443.png?semt=ais_hybrid" 
+/> -->
+<img 
+    align="left" 
+    alt="mySQL" 
+    title="mySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png"
 />
 <img 
     align="left" 
-    alt="Django" 
-    title="Django"
-    width="23px" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 

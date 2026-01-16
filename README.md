@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eduardo Ferreira
+# 👩🏻‍💻 Eduardo Ferreira | 19 anos
 
 **`Desenvolvedor Back-End`**
 

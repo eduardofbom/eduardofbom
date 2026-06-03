@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Eduardo Ferreira Bomfim Filho, tenho 18 anos e sou natural de Sergipe. Concluí o ensino médio no Colégio Módulo. Atualmente, estou cursando Sistemas de Informação na UFS. Desde criança gosto de tecnologia, mas descobri a paixão pela a área de computação em 2022 e desde então não parei de estudar.
+Me chamo Eduardo Ferreira Bomfim Filho, tenho 19 anos e sou natural de Sergipe. Concluí o ensino médio no Colégio Módulo. Atualmente, estou cursando Sistemas de Informação na UFS. E tenho experiência de desenvolvimento de API’s utilizando Java, Spring Boot, PostgreSQL, padrões de projeto.
 
 ---
 

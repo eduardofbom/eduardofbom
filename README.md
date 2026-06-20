@@ -40,11 +40,11 @@ Me chamo Eduardo Ferreira Bomfim Filho, tenho 19 anos e sou natural de Sergipe. 
 /> -->
 <img 
     align="left" 
-    alt="mySQL" 
-    title="mySQL"
+    alt="PostgreSQL" 
+    title="postgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png"
+    src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"
 />
 <img 
     align="left" 
